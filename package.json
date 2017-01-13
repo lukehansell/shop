@@ -1,0 +1,27 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "deploy": "now",
+    "dev": "next",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukehansell/shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukehansell/shop/issues"
+  },
+  "homepage": "https://github.com/lukehansell/shop#readme",
+  "dependencies": {
+    "next": "^1.2.3",
+    "now": "^2.0.3"
+  }
+}
